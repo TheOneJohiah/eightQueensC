@@ -1,0 +1,7 @@
+Speculation:
+Bogoqueen. Just randomly pick spots, and then check them?
+Fitness check mechanism for placements?
+
+Just start with the first open space on the current line,
+marking off invalid lines as queens get placed?
+
